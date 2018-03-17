@@ -1,0 +1,5 @@
+com\shsxt\service\impl\TestServiceImpl.class
+com\shsxt\service\ITestService.class
+com\shsxt\dao\ITestDao.class
+com\shsxt\controller\TestController.class
+com\shsxt\model\Test.class
